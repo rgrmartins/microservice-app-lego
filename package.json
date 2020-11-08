@@ -1,0 +1,15 @@
+{
+  "name": "microservice-lego",
+  "version": "1.0.0",
+  "description": "microservice test app lego distance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Martins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
